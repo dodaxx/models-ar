@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Glasse
+* source:	https://sketchfab.com/3d-models/black-glasse-f3efe0f44f84449e9c7c30a3cffdd5ed
+* author:	iX.i UGC (https://sketchfab.com/ChampiAndIX.i)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Glasse" (https://sketchfab.com/3d-models/black-glasse-f3efe0f44f84449e9c7c30a3cffdd5ed) by iX.i UGC (https://sketchfab.com/ChampiAndIX.i) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
